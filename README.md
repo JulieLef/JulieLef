@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Julie Lefebvre 
 
-📊 ** Ingénieur et Data Analyst ** | Scientifique | Expertise métier & storytelling data | Power BI • SQL • Python 
+📊 **Ingénieur et Data Analyst** | Scientifique | Expertise métier & storytelling data | Power BI • SQL • Python 
 
 ---
 
