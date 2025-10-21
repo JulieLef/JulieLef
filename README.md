@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Julie Lefebvre 
 
-📊 **Data Analyst BI** | Business Intelligence | Power BI • SQL • Python • Data Storytelling  
+📊 ** Ingénieur et Data Analyst ** | Scientifique | Expertise métier & storytelling data | Power BI • SQL • Python 
 
 ---
 
@@ -11,7 +11,7 @@ Diplômée d’une formation certifiée **Mines Paris – PSL (DataScientest)**,
 - 🤝 **Sens business** : compréhension des enjeux stratégiques & KPI  
 - 🎓 **Pédagogie** : rendre les insights accessibles via storytelling et dashboards  
 
- ctuellement à la recherche d’opportunités comme **Data Analyst BI** dans un environnement stimulant.  
+Aujourd’hui, je mets mes compétences au service de la donnée, qu’il s’agisse de **piloter la performance métier** ou **d’analyser des données scientifiques**, pour **aider les équipes à comprendre, décider et agir.**
 
 ---
 
